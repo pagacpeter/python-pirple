@@ -1,7 +1,10 @@
 """
+
 My favourite song - Bob Dylan - The Times They are a-Changin
+Dylan wrote the song as a deliberate attempt to create an anthem of change for the time, influenced by Irish and Scottish ballads
 
 """
+
 #basic info
 SongName = "The Times They are a-Changin"
 Artist = "Bob Dylan"
